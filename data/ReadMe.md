@@ -6,5 +6,5 @@ Insert into this directory the files from GlobalDataLab. Code is designed to not
     
 * Extract the GDL Code & Shapefiles here: https://globaldatalab.org/shdi/shapefiles/
    * Latest Codes: GDL Codes V4 (is an xlsx you can just download)
-   * Latest Shapefiles: GDL Shapefiles V4.zip 
+   * Latest Shapefiles: GDL Shapefiles V4.zip  
       * You can unpack it if you like, you don't have to. Unzipping it saves ~2 seconds of load time which could add up when developing

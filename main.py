@@ -15,7 +15,7 @@ pd.set_option('display.max_rows', None)
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 # pd.set_option('display.max_colwidth', None)
-
+ 
 SHDIComplete = pd.read_csv('data/SHDI Complete 4.0 (1).csv', usecols=['level', 'year', 'GDLCODE', 'shdi', 'healthindex',
                                                                       'incindex', 'edindex', 'lifexp', 'gnic', 'esch',
                                                                       'msch', 'pop'])
